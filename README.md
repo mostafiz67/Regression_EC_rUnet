@@ -10,6 +10,6 @@ Our model was inspired by the methodology and source code presented in this pape
 ## Model Train 
 
 ```
-sh run_longitudinal_1_1.sh
+sh run_longitudinal_1_2.sh
 ```
 
