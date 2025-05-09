@@ -1,0 +1,11 @@
+numpy
+torch==1.8.0+computecanada
+scikit-image==0.19.1+computecanada
+scikit-learn==1.0.1+computecanada
+nibabel==3.2.1+computecanada 
+pandas==1.2.3 
+tqdm==4.58.0 
+typing_extensions
+pytorch-lightning==1.0.0
+monai==0.4.0
+matplotlib
