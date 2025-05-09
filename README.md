@@ -13,3 +13,8 @@ Our model was inspired by the methodology and source code presented in this pape
 sh run_longitudinal_1_2.sh
 ```
 
+## Output
+<img src="https://github.com/mostafiz67/Regression_EC_rUnet/blob/main/parametric_map/ec_method_image_sub_1_raw.png" alt="Simplified parametric map images " width="800" height="800">
+<p align="center">
+    Figure: Simplified parametric map images from rUnet and ADNI dataset
+</p>
